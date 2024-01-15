@@ -1,0 +1,22 @@
+
+
+
+
+.button_container {
+    padding: 4rem 0;
+}
+
+.button {
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    background-color: aliceblue;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+
+.button:hover {
+    background-color: #212427;
+    color: white;
+    transition: 0.25s ease-in-out;
+    cursor: pointer;
+}

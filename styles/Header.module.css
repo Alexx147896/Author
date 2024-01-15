@@ -1,0 +1,29 @@
+
+
+.header_container {
+    display: none;
+    top: 0;
+    position: sticky;
+}
+
+@media (max-width: 950px) {
+    .header_container {
+        display: block;
+        background-color: #212427;
+    }
+    .logo {
+        width: 15rem;
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 350px) {
+    .header_container {
+        display: block;
+        background-color: #212427;
+    }
+    .logo {
+        width: 10rem;
+        padding: 1rem;
+    }
+}
