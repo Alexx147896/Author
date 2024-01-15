@@ -245,7 +245,7 @@ const allBooks = [
      },
      { 
       id: 5, 
-      name: 'Girl In The Woods', 
+      name: 'The Girl In The Woods', 
       collection: '(Final Girl #2)', 
       image: 'the-girl-in-the-woods.jpg', 
       type: 'recent',
