@@ -83,6 +83,7 @@
     }
 }
 
+
 @media (max-width: 500px) {
     .container {
         padding: 2rem;
@@ -91,5 +92,4 @@
     .input {
         width: 15rem;
     }
-
 }

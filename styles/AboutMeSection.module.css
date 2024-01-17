@@ -47,13 +47,6 @@ img {
 
 
 
-
-
-
-
-
-
-
 @media (max-width: 1650px) {
    
     .container {
@@ -81,8 +74,7 @@ img {
    .image_container_bottom {
     display: block;
     visibility: visible;
-}
-
+    }
 }
 
 
@@ -91,8 +83,8 @@ img {
     .author_name {
         font-size: 4rem;
     }
- 
  }
+ 
 
  @media (max-width: 450px) {
    
@@ -107,6 +99,7 @@ img {
         width: 200px;
     }
  }
+
 
  @media (max-width: 450px) {
    

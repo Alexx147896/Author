@@ -1,5 +1,5 @@
 
-import { useState } from 'react'
+
 import {Routes, Route} from 'react-router-dom'
 import './App.css'
 import "slick-carousel/slick/slick.css"; 
@@ -26,6 +26,7 @@ import BookDetails from '../components/BookDetails.jsx';
 
 
 function App() {
+
 
 
   return (
@@ -89,8 +90,6 @@ function App() {
           </>
         }/>
 
-
-          
       </Routes>
     </>
   )

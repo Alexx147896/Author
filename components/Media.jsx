@@ -62,13 +62,6 @@ function Media() {
                 </div>
             </div>
 
-
-            
-
-            
-
-
-
         </div>
 
     </div>

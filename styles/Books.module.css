@@ -1,9 +1,6 @@
 
 
 
-
-
-
 .title_container {
    text-align: center;
    margin-top: 4rem;
@@ -45,8 +42,8 @@
 }
 
 .image {
-    width: 100%; /* Make images responsive */
-    height: auto; /* Maintain aspect ratio */
+    width: 100%; 
+    height: auto; 
     padding: 1rem;
 }
 

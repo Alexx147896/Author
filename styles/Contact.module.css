@@ -1,8 +1,6 @@
 
 
 
-
-
 .wrapper {
     background-color: #F3F3F3;
     color: #222;
@@ -37,7 +35,6 @@
     color: #FFCC00;
     font-weight: 900;
     margin-bottom: 2rem;
-
 }
 
 .input {
@@ -70,7 +67,6 @@
 }
 
 
-
 @media (max-width: 1150px) {
     .wrapper {
         flex-direction: column;
@@ -95,6 +91,7 @@
     }
 }
 
+
 @media (max-width: 500px) {
     .container {
         padding: 2rem;
@@ -103,5 +100,7 @@
     .input, .input_message {
         width: 15rem;
     }
-
+    .title {
+        padding: 2rem;
+    }
 }

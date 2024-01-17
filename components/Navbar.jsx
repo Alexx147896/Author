@@ -1,8 +1,8 @@
-import { useState } from 'react';
+import { useState } from 'react'
 import styles from '../styles/Navbar.module.css'
 import { Link } from 'react-router-dom'
-import MenuIcon from '@mui/icons-material/Menu'; // Import the burger menu icon
-import CloseIcon from '@mui/icons-material/Close'; // Import the close icon
+import MenuIcon from '@mui/icons-material/Menu'
+import CloseIcon from '@mui/icons-material/Close'
 
 
 export default function Navbar() {

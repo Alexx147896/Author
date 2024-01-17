@@ -33,6 +33,7 @@
     }
 }
 
+
 @media (max-width: 850px) {
     .container {
         margin: 4rem 0rem;
@@ -45,11 +46,13 @@
     }
 }
 
+
 @media (max-width: 768px) {
     .container {
         margin: 2rem 0rem;
     }
 }
+
 
 @media (max-width: 500px) {
     .container {
